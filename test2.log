@@ -1,0 +1,10 @@
+Log code generated in: test2.log
+Error at line no. : 4 -- Type: Multiple declaration of label: label
+Error at line no. : 5 -- Type: No such label / data variable
+Error at line no. : 6 -- Type: Invalid number
+Error at line no. : 7 -- Type: Invalid OPCode-Syntax combination
+Error at line no. : 8 -- Type: Invalid OPCode-Syntax combination
+Error at line no. : 9 -- Type: Invalid OPCode-Syntax combination
+Error at line no. : 10 -- Type: Invalid label name
+Error at line no. : 11 -- Type: Invalid Mnemonic
+Error at line no. : 12 -- Type: Invalid Mnemonic
