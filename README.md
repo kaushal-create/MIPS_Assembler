@@ -1,20 +1,15 @@
 # MIPS_Assembler
 
-/*****************************************************************************
-TITLE: Claims																																
-AUTHOR: Kaushal Raj (2001CS36)
-Declaration of Authorship
-This txt file, claims.txt, is part of the assignment of CS322 at the 
-department of Computer Science and Engg, IIT Patna . 
+/****************************************************************************
+- TITLE: Claims																	
+- AUTHOR: Kaushal Raj (2001CS36)
+- Declaration of Authorship
+- This txt file, claims.txt, is part of the assignment of CS322 at the  department of Computer Science and Engg, IIT Patna. 
 *****************************************************************************/
 
 Files:
-==========
 *All the files i submitted, asm.c++ and claims.txt, have my name and student id at the start, along with a declaration of authorship.
-
-The evidence for Assembler including the output files from the test examples has also been uploaded. They are test1(3 output files), test2(3 output files), test3
-(3 output file), bubble(3 output files), test4(3 output file), test5(3 output file), bubble.txt and test_asm(3 output files), test_asm.txt. 
-
+The evidence for Assembler including the output files from the test examples has also been uploaded. They are test1(3 output files), test2(3 output files), test3 (3 output file), bubble(3 output files), test4(3 output file), test5(3 output file), bubble.txt and test_asm(3 output files), test_asm.txt. 
 
 * Programs are compilable with g++ assembler.cpp -o asm
 * Running the program ./asm bubble.asm
